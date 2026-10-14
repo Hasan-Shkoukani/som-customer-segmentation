@@ -1,0 +1,6 @@
+,SOM,K-Means
+Quantization Error,0.07541334284880805,
+Topographic Error,0.045,
+Silhouette Score,0.257890904415451,0.5194624832665107
+Davies-Bouldin Index,1.6606537530549124,0.8172534497318451
+Optimal K,2.0,2.0
